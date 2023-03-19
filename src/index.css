@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+    color: white;
+}
+
+hr {
+    opacity: .50;
+}
+
+.size {
+    width: 18rem;
+}
+
+.border {
+    border-radius: 1rem;
+}
